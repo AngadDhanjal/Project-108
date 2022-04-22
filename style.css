@@ -1,0 +1,39 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(238, 255, 80);
+
+}
+.header_div {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: rgb(8, 125, 235);
+    color: rgb(255, 0, 221);
+
+}
+.header_div p{
+    font-family: 'Shadows Into Light', cursive;
+letter-spacing: 2px;
+font-size: 18px;
+font-weight: bold;
+
+}
+ 
+.main_div button{
+    font-family: 'Roboto',sans-serif;
+    margin-top: 30px;
+    width: 200px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
